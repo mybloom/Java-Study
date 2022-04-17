@@ -1,6 +1,4 @@
-package stack;
-
-import static org.junit.jupiter.api.Assertions.*;
+package stackqueue;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;

@@ -1,6 +1,4 @@
-package stack;
-
-import java.util.Arrays;
+package stackqueue;
 
 /**
  * int배열 사용해서 정수 저장하는 Stack
